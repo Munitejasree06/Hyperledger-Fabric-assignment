@@ -1,7 +1,5 @@
 package abac
 
-package chaincode
-
 import (
 	"encoding/json"
 	"fmt"
